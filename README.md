@@ -1,6 +1,6 @@
 ## Olá.. eu sou o Elton Ryan
 
-- 🔭 Hoje eu trabalho como fullstack Jr
+- 🔭 Hoje eu trabalho como Fullstack Jr
 - 🌱 Estudando Typescript
 - 📫 Contate-me no email: eltonryan.bt0@gmail.com
 - 😄 Pronouns: Ele/Dele
