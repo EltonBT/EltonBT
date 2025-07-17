@@ -20,8 +20,6 @@
   <img align="center" alt="Elton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Elton-Unity" height="30" width="30" 
-src="https://assets.stickpng.com/images/62e131cb7fe3599fdd46ecb2.png">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="./icons/Django.svg" width="48">
   
 </div>
