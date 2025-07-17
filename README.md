@@ -20,6 +20,6 @@
   <img align="center" alt="Elton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img src="./icons/Django.svg" width="48">
+  <img align="center" alt="Elton-Java" height="30" width="40" src="./unity-original.svg">
   
 </div>
