@@ -20,6 +20,6 @@
   <img align="center" alt="Elton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Elton-Unity" height="30" width="30" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzT9Va5IsVOdKqxsqOscJd7z4q8-tTm_ASg&s">
+  <img align="center" alt="Elton-Unity" height="30" width="30" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png">
   
 </div>
