@@ -22,6 +22,6 @@
   <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Elton-Unity" height="30" width="30" 
 src="https://assets.stickpng.com/images/62e131cb7fe3599fdd46ecb2.png">
-[![python](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 </div>
