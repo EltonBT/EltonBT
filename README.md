@@ -18,10 +18,11 @@
   <img align="center" alt="Elton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Elton-Django" height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">  
   <img align="center" alt="Elton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Elton-Unity" height="30" width="40" src="./unity-original.svg">
   <img align="center" alt="Elton-Postman" height="30" width="40" src="./postman.svg">
-  <img align="center" alt="Elton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
   
 </div>
